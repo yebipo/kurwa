@@ -1,0 +1,6 @@
+=== Отчет по модели: final_model_stable ===
+R2 Score: -0.46889
+RMSE (Full): 0.14988
+RMSE (Slice 0.8-1.0): 0.03548
+Mean Bias (Error): 0.10067
+Вердикт смещения: В среднем модель ЗАВЫШАЕТ (Overestimates)

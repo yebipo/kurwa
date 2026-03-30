@@ -1,0 +1,189 @@
+=== Отчет по модели: final_model ===
+Время создания файла: 2025-12-06 13:40:42
+Сурс-скрипт (где найден код): 4scan.py, check_best.py, check_models.py, FINAL.MODEL.py, hyper_bias_2mod.py, hyper_bias_7+3.py, quant_bias.py, undo_bias.py
+Сурс-данные (на чем тестим): unique_rows.csv
+R2 Score: -0.39537
+RMSE (Full): 0.11608
+RMSE (Slice 0.8-1.0): 0.13780
+Mean Bias (Error): -0.06091
+Вердикт смещения: В среднем модель ЗАНИЖАЕТ (Underestimates)
+----------------------------------------
+
+=== Отчет по модели: final_model_unbiased ===
+Время создания файла: 2025-11-26 11:54:36
+Сурс-скрипт (где найден код): another_graph.py, less_biased_check.py, to_line.py, undo_bias.py
+Сурс-данные (на чем тестим): unique_rows.csv
+R2 Score: -4.14572
+RMSE (Full): 0.22292
+RMSE (Slice 0.8-1.0): 0.08441
+Mean Bias (Error): 0.20487
+Вердикт смещения: В среднем модель ЗАВЫШАЕТ (Overestimates)
+----------------------------------------
+
+=== Отчет по модели: gatekeeper_classifier ===
+Время создания файла: 2025-12-05 19:43:28
+Сурс-скрипт (где найден код): bias_linear_regr.py
+Сурс-данные (на чем тестим): unique_rows.csv
+R2 Score: -45.72599
+RMSE (Full): 0.67174
+RMSE (Slice 0.8-1.0): 0.75409
+Mean Bias (Error): -0.63425
+Вердикт смещения: В среднем модель ЗАНИЖАЕТ (Underestimates)
+----------------------------------------
+
+=== Отчет по модели: logit_booster ===
+Время создания файла: 2025-12-06 14:31:05
+Сурс-скрипт (где найден код): check_another_f_model.py
+Сурс-данные (на чем тестим): unique_rows.csv
+R2 Score: 0.19109
+RMSE (Full): 0.08838
+RMSE (Slice 0.8-1.0): 0.06530
+Mean Bias (Error): 0.04641
+Вердикт смещения: В среднем модель ЗАВЫШАЕТ (Overestimates)
+----------------------------------------
+
+=== Отчет по модели: final_model_god_v4_OPTIMIZED ===
+Время создания файла: 2025-12-10 13:09:33
+Сурс-скрипт (где найден код): comp_7b_7b_less.py, tryin_shit_for_7_less_b.py
+Сурс-данные (на чем тестим): unique_rows.csv
+R2 Score: -0.06298
+RMSE (Full): 0.10132
+RMSE (Slice 0.8-1.0): 0.12268
+Mean Bias (Error): -0.03375
+Вердикт смещения: В среднем модель ЗАНИЖАЕТ (Underestimates)
+----------------------------------------
+
+=== Отчет по модели: final_model_god_v4 ===
+Время создания файла: 2025-12-09 22:05:38
+Сурс-скрипт (где найден код): comp_7b_7b_less.py, the_best_model.py, tryin_shit_for_7_less_b.py
+Сурс-данные (на чем тестим): unique_rows.csv
+R2 Score: -0.08198
+RMSE (Full): 0.10222
+RMSE (Slice 0.8-1.0): 0.12514
+Mean Bias (Error): -0.03368
+Вердикт смещения: В среднем модель ЗАНИЖАЕТ (Underestimates)
+----------------------------------------
+
+=== Отчет по модели: final_model_high_end ===
+Время создания файла: 2025-11-26 11:49:58
+Сурс-скрипт (где найден код): less_biased_check.py
+Сурс-данные (на чем тестим): unique_rows.csv (По умолчанию)
+R2 Score: -0.20514
+RMSE (Full): 0.10788
+RMSE (Slice 0.8-1.0): 0.04860
+Mean Bias (Error): 0.07821
+Вердикт смещения: В среднем модель ЗАВЫШАЕТ (Overestimates)
+----------------------------------------
+
+=== Отчет по модели: super_sniper_optuna ===
+Время создания файла: 2025-12-13 11:20:37
+Сурс-скрипт (где найден код): xboost_try.py
+Сурс-данные (на чем тестим): unique_rows.csv
+R2 Score: -0.06316
+RMSE (Full): 0.10133
+RMSE (Slice 0.8-1.0): 0.12015
+Mean Bias (Error): -0.02980
+Вердикт смещения: В среднем модель ЗАНИЖАЕТ (Underestimates)
+----------------------------------------
+
+=== Отчет по модели: final_model_entropy_fast ===
+Время создания файла: 2025-11-29 08:34:01
+Сурс-скрипт (где найден код): y4_optuna.py
+Сурс-данные (на чем тестим): unique_rows.csv
+R2 Score: -22.92228
+RMSE (Full): 0.48064
+RMSE (Slice 0.8-1.0): 0.53220
+Mean Bias (Error): 0.01198
+Вердикт смещения: В среднем модель ЗАВЫШАЕТ (Overestimates)
+----------------------------------------
+
+=== Отчет по модели: super_sniper_optuna ===
+Дата файла модели: 2025-12-13 11:20:37
+Сурс-скрипты (от новых): xboost_try.py
+Тест-датасет: unique_rows.csv
+R2 Score: -0.06316
+RMSE (Full): 0.10133
+RMSE (Slice 0.8-1.0): 0.12015
+Mean Bias: -0.02980 (ЗАНИЖАЕТ)
+----------------------------------------
+
+=== Отчет по модели: final_model_god_v4_OPTIMIZED ===
+Дата файла модели: 2025-12-10 13:09:33
+Сурс-скрипты (от новых): comp_7b_7b_less.py, tryin_shit_for_7_less_b.py
+Тест-датасет: unique_rows.csv
+R2 Score: -0.06298
+RMSE (Full): 0.10132
+RMSE (Slice 0.8-1.0): 0.12268
+Mean Bias: -0.03375 (ЗАНИЖАЕТ)
+----------------------------------------
+
+=== Отчет по модели: final_model_god_v4 ===
+Дата файла модели: 2025-12-09 22:05:38
+Сурс-скрипты (от новых): comp_7b_7b_less.py, tryin_shit_for_7_less_b.py, the_best_model.py
+Тест-датасет: unique_rows.csv
+R2 Score: -0.08198
+RMSE (Full): 0.10222
+RMSE (Slice 0.8-1.0): 0.12514
+Mean Bias: -0.03368 (ЗАНИЖАЕТ)
+----------------------------------------
+
+=== Отчет по модели: logit_booster ===
+Дата файла модели: 2025-12-06 14:31:05
+Сурс-скрипты (от новых): check_another_f_model.py
+Тест-датасет: unique_rows.csv
+R2 Score: 0.19109
+RMSE (Full): 0.08838
+RMSE (Slice 0.8-1.0): 0.06530
+Mean Bias: 0.04641 (ЗАВЫШАЕТ)
+----------------------------------------
+
+=== Отчет по модели: final_model_besk_not_quantile ===
+Дата файла модели: 2025-12-06 14:07:30
+Сурс-скрипты (от новых): check_another_f_model.py, another_fucking_model.py
+Тест-датасет: unique_rows.csv
+R2 Score: -0.43133
+RMSE (Full): 0.11757
+RMSE (Slice 0.8-1.0): 0.13539
+Mean Bias: -0.05784 (ЗАНИЖАЕТ)
+----------------------------------------
+
+=== Отчет по модели: final_model ===
+Дата файла модели: 2025-12-06 13:40:42
+Сурс-скрипты (от новых): check_models.py, FINAL.MODEL.py, quant_bias.py, hyper_bias_7+3.py, hyper_bias_2mod.py, undo_bias.py, check_best.py, 4scan.py
+Тест-датасет: unique_rows.csv
+R2 Score: -0.39537
+RMSE (Full): 0.11608
+RMSE (Slice 0.8-1.0): 0.13780
+Mean Bias: -0.06091 (ЗАНИЖАЕТ)
+----------------------------------------
+
+=== Отчет по модели: gatekeeper_classifier ===
+Дата файла модели: 2025-12-05 19:43:28
+Сурс-скрипты (от новых): bias_linear_regr.py
+Тест-датасет: unique_rows.csv
+R2 Score: -45.72599
+RMSE (Full): 0.67174
+RMSE (Slice 0.8-1.0): 0.75409
+Mean Bias: -0.63425 (ЗАНИЖАЕТ)
+----------------------------------------
+
+=== Отчет по модели: final_model_stable ===
+Дата файла модели: 2025-12-05 19:00:47
+Сурс-скрипты (от новых): hyper_bias_7+3.py, hyper_bias_graph_2.py, hyper_bias_2mod.py, bias_linear_regr.py, bias_anal.py, bias_check.py
+Тест-датасет: unique_rows.csv
+R2 Score: -1.12770
+RMSE (Full): 0.14334
+RMSE (Slice 0.8-1.0): 0.09540
+Mean Bias: 0.06837 (ЗАВЫШАЕТ)
+----------------------------------------
+
+=== Отчет по модели: final_model_entropy_fast ===
+Дата файла модели: 2025-11-29 08:34:01
+Сурс-скрипты (от новых): y4_optuna.py
+Тест-датасет: unique_rows.csv
+R2 Score: -22.92228
+RMSE (Full): 0.48064
+RMSE (Slice 0.8-1.0): 0.53220
+Mean Bias: 0.01198 (ЗАВЫШАЕТ)
+----------------------------------------
+

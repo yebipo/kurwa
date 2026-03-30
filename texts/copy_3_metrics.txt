@@ -1,0 +1,6 @@
+=== Отчет по модели: gatekeeper_classifier ===
+R2 Score: -25.22561
+RMSE (Full): 0.63331
+RMSE (Slice 0.8-1.0): 0.55144
+Mean Bias (Error): -0.60074
+Вердикт смещения: В среднем модель ЗАНИЖАЕТ (Underestimates)

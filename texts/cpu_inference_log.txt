@@ -1,0 +1,26 @@
+2025-12-11 21:07:15,498 - 🖥️ COMPUTE DEVICE: cpu (Forced CPU Mode ❄️)
+2025-12-11 21:07:18,034 - 🔧 Fixing loaded model parameters for CPU usage...
+2025-12-11 21:07:18,145 - ✅ Model sanitized. Ready for CPU inference.
+2025-12-11 21:30:48,434 - 🖥️ COMPUTE DEVICE: cpu (Forced CPU Mode ❄️)
+2025-12-11 21:30:52,343 - 🔧 Fixing loaded model parameters for CPU usage...
+2025-12-11 21:30:52,443 - ✅ Model sanitized. Ready for CPU inference.
+2025-12-11 21:39:08,281 - 🖥️ COMPUTE DEVICE: cpu (Forced CPU Mode ❄️)
+2025-12-11 21:39:10,862 - 🔧 Fixing loaded model parameters for CPU usage...
+2025-12-11 21:39:11,008 - ✅ Model sanitized. Ready for CPU inference.
+2026-03-05 13:01:33,287 - 🖥️ COMPUTE DEVICE: cpu (Forced CPU Mode ❄️)
+2026-03-05 13:02:00,352 - 🖥️ COMPUTE DEVICE: cpu (Using CPU ❄️)
+2026-03-05 13:02:24,935 - 🖥️ COMPUTE DEVICE: cpu (Forced CPU Mode ❄️)
+2026-03-05 13:02:34,568 - 🖥️ COMPUTE DEVICE: cpu (Using CPU ❄️)
+2026-03-05 13:14:04,126 - 🖥️ COMPUTE DEVICE: cpu (Forced CPU Mode ❄️)
+2026-03-05 13:14:11,175 - 🖥️ COMPUTE DEVICE: cpu (Using CPU ❄️)
+2026-03-05 13:25:11,754 - 🖥️ COMPUTE DEVICE: cpu (Forced CPU Mode ❄️)
+2026-03-05 13:25:15,852 - 🖥️ COMPUTE DEVICE: cpu (Using CPU ❄️)
+2026-03-05 13:25:16,403 - 🖥️ GPU Status: NOT FOUND ❄️ (Using CPU)
+2026-03-05 13:25:16,603 - 🖥️ COMPUTE DEVICE: cpu (Using CPU ❄️)
+2026-03-05 13:31:44,544 - 🖥️ COMPUTE DEVICE: cpu (Forced CPU Mode ❄️)
+2026-03-05 13:32:21,184 - 🖥️ COMPUTE DEVICE: cpu (Using CPU ❄️)
+2026-03-05 13:47:24,135 - 🖥️ COMPUTE DEVICE: cpu (Forced CPU Mode ❄️)
+2026-03-05 13:47:27,865 - 🔧 Fixing loaded model parameters for CPU usage...
+2026-03-05 13:47:27,990 - ✅ Model sanitized. Ready for CPU inference.
+2026-03-09 09:00:34,538 - 🖥️ COMPUTE DEVICE: cpu (Forced CPU Mode ❄️)
+2026-03-09 09:01:16,873 - 🖥️ COMPUTE DEVICE: cpu (Using CPU ❄️)

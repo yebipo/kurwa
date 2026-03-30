@@ -1,0 +1,6 @@
+=== Отчет по модели: final_model_besk_not_quantile ===
+R2 Score: 0.85889
+RMSE (Full): 0.04646
+RMSE (Slice 0.8-1.0): 0.03749
+Mean Bias (Error): -0.02389
+Вердикт смещения: В среднем модель ЗАНИЖАЕТ (Underestimates)

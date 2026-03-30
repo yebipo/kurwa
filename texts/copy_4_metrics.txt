@@ -1,0 +1,6 @@
+=== Отчет по модели: logit_booster ===
+R2 Score: 0.40245
+RMSE (Full): 0.09560
+RMSE (Slice 0.8-1.0): 0.02205
+Mean Bias (Error): 0.07984
+Вердикт смещения: В среднем модель ЗАВЫШАЕТ (Overestimates)
